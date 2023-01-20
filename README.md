@@ -49,7 +49,7 @@ The `btnValue(getSameValue)` takes the value of the clicked button, and updates 
 The final part of the app is to create the buttons that hold the values, and that call the `handleClick` event handler in the `onClick` property of the button element. 
 
 ```
- // Add a value attrbute to the buttons
+ // Add a value attribute to the buttons
 
   return (
     <div>
